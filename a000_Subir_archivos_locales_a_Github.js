@@ -3,6 +3,7 @@
 
 //git remote --verbose
 //git remote set-url origin https://github.com/Cesarpipe31/freeCodeCamp_Javascript.git
+//git remote add origin https://github.com/Cesarpipe31/freeCodeCamp_Javascript.git
 //  git branch -M main
 //  git push -u origin main
 //  git status
