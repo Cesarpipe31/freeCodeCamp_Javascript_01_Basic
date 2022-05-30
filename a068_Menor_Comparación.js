@@ -31,36 +31,19 @@
 
 ///
 
-// function testLessThan(val) {
-//   if (val < 25) {
-//     // Cambia esta línea
-//     return "Under 25"
-//   }
-
-//   if (val < 55) {
-//     // Cambia esta línea
-//     return "Under 55"
-//   }
-
-//   return "55 or Over"
-// }
-
-// testLessThan(10)
-
-///
-
-function testLessOrEqual(val) {
-  if (val <= 12) {
+function testLessThan(val) {
+  if (val < 25) {
     // Cambia esta línea
-    return "Smaller Than or Equal to 12"
+    return "Under 25"
   }
 
-  if (val <= 24) {
+  if (val < 55) {
     // Cambia esta línea
-    return "Smaller Than or Equal to 24"
+    return "Under 55"
   }
 
-  return "More Than 24"
+  return "55 or Over"
 }
 
-testLessOrEqual(10)
+testLessThan(10)
+

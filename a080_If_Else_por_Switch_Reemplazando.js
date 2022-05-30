@@ -61,7 +61,7 @@ function chainToSwitch(val) {
       answer = "The Answer"
       break
     case 1:
-      answer = "Ther is no #1"
+      answer = "There is no #1"
       break
     case 99:
       answer = "Missed me by this much!"
