@@ -1,26 +1,26 @@
-Itera números impares con un bucle "for"
-Los bucles "for" no tienen que iterar de uno en uno a la vez.
-Al cambiar nuestra final-expression (expresión final), podemos 
-contar con números pares.
+// Itera números impares con un bucle "for"
+// Los bucles "for" no tienen que iterar de uno en uno a la vez.
+// Al cambiar nuestra final-expression (expresión final), podemos 
+// contar con números pares.
 
-Empezaremos en i = 0 y realizaremos el bucle mientras i < 10. 
-Incrementaremos i en 2 cada bucle utilizando i += 2.
+// Empezaremos en i = 0 y realizaremos el bucle mientras i < 10. 
+// Incrementaremos i en 2 cada bucle utilizando i += 2.
 
-const ourArray = [];
+// const ourArray = [];
 
-for (let i = 0; i < 10; i += 2) {
-  ourArray.push(i);
-}
-ourArray ahora contendrá [0, 2, 4, 6, 8]. Cambiemos 
-nuestra initialization (inicialización) para que podamos contar por números impares.
+// for (let i = 0; i < 10; i += 2) {
+//   ourArray.push(i);
+// }
+// ourArray ahora contendrá [0, 2, 4, 6, 8]. Cambiemos 
+// nuestra initialization (inicialización) para que podamos contar por números impares.
 
-Inserta los números impares desde 1 hasta 9 en myArray utilizando un bucle for.
+// Inserta los números impares desde 1 hasta 9 en myArray utilizando un bucle for.
 
 
-// Configuración
-const myArray = [];
+// // Configuración
+// const myArray = [];
 
-// Cambia solo el código debajo de esta línea
+// // Cambia solo el código debajo de esta línea
 
 ///
 

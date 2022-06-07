@@ -39,7 +39,12 @@
 
 // function sum(arr, n) {
 //   // Cambia solo el código debajo de esta línea
-
+// for (var i = 0; i < contacts.length; i++){
+//     if (contacts[i].firstName === name){
+//         return contact[i][prop] || "No such property"
+//     }
+// }
+// return "No such contact"
 //   // Cambia solo el código encima de esta línea
 // }
 
